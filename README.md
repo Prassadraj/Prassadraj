@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif"/>
+<img width="100%" src="https://te.legra.ph/file/ab0792e1d6d0b4e5f0e85.png"/>
 <h1 align="center">Hi 👋, I'm Prassad Raj</h1>
 <h3 align="center">
 Frontend 🎨 magician crafting stunning interfaces with React.js, fueled by creativity. Backend 🧙‍♂️ wizard wielding Node.js and Express.js magic, conjuring robust APIs and manipulating data with MongoDB.✨🚀🔮</h3>
