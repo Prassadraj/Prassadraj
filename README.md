@@ -1,7 +1,8 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Prassad Raj</h1>
-<h3 align="center">✨Frontend magician weaving sleek interfaces with JavaScript and mastering the art of design-driven development, fueled by the thrilling dance of creativity with React.js.🚀💻</h3>
+<h3 align="center">
+Frontend 🎨 magician crafting stunning interfaces with React.js, fueled by creativity. Backend 🧙‍♂️ wizard wielding Node.js and Express.js magic, conjuring robust APIs and manipulating data with MongoDB.✨🚀🔮</h3>
 <img align="right" width="400px" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt='image'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prassadraj&label=Profile%20views&color=0e75b6&style=flat" alt="prassadraj" /> </p>
