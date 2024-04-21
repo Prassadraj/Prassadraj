@@ -2,7 +2,7 @@
 <img width="100%" src="https://te.legra.ph/file/ab0792e1d6d0b4e5f0e85.png"/>
 <h1 align="center">Hi 👋, I'm Prassad Raj</h1>
 <h3 align="center">
-Frontend 🎨magician crafting stunning interfaces with React.js, fueled by creativity. Backend 🧙‍♂️ wizard wielding Node.js and Express.js magic, conjuring robust APIs and manipulating data with MongoDB.✨🚀🔮 </h3>
+Frontend 🎨magician crafting stunning interfaces with React.js, fueled by creativity. Backend 🧙‍♂️ wizard wielding Node.js and Express.js magic, conjuring robust APIs and manipulating data with MongoDB.✨🚀🔮</h3>
 <img align="right" width="400px" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt='image'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prassadraj&label=Profile%20views&color=0e75b6&style=flat" alt="prassadraj" /> </p>
